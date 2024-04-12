@@ -1,0 +1,14 @@
+.container {
+    /* background: red; */
+    max-width: 500px;
+    padding: 32px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.container header { 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+}
