@@ -7,7 +7,7 @@ Este repositório contém todos os arquivos utilizados durante a aula da semana 
 
 - [1º Introdução ao ReactJs](/aula1-introducao-react/)
 - [2º Criando componentes, props, children, destructuring e spread operator](/aula2-react-components/)
-<!-- - 3º Consumo de API e FETCH -->
+- [3º Renderização de listas, propsTypes (Validação de tipos) e fluxo de dados](/aula3-listas-propstypes/)
 
 
 ## Como Executar o Projeto
